@@ -1,28 +1,40 @@
-name: Playful Geek
 favicon: null
-layout_spectrum: 0.9113409062847495
-typography_spectrum: 0.3536870356183499
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Playful Geek
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7755289012566209
+  brandStrength: 0.1637126412242651
+  rhythmicContrast: 0.9936501372139901
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.1637126412242651
   lightness: 0.8165154352318496
-  saturation: 0.7755289012566209
-  rhythmicContrast: 0.9936501372139901
-purpose: []
+typography_spectrum: 0.2776584
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9113409062847495
+analytics:
+  twitter: null
+  google: null
+  facebook: null
