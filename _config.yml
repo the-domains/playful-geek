@@ -1,0 +1,28 @@
+name: Playful Geek
+favicon: null
+layout_spectrum: 0.9113409062847495
+typography_spectrum: 0.3536870356183499
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1637126412242651
+  lightness: 0.8165154352318496
+  saturation: 0.7755289012566209
+  rhythmicContrast: 0.9936501372139901
+purpose: []
